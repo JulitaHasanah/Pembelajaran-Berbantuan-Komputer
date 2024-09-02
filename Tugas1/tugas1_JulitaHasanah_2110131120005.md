@@ -19,7 +19,7 @@ Beberapa opsi Teams yang dapat disesuaikan dengan perangkat yang dimiliki, yaitu
 - **Membuat Ruang Kelas Virtual**: Pengajar dapat membuat tim kelas untuk setiap mata pelajaran atau kelompok siswa. Setiap tim ini berfungsi sebagai ruang kelas virtual tempat materi dibagikan, tugas diberikan, dan komunikasi dilakukan.
 - **Mengelola Materi Pembelajaran**: Pengajar dapat mengunggah materi pelajaran seperti dokumen, presentasi, video, dan tautan eksternal. File tersebut bisa diatur dalam folder di dalam channel untuk setiap mata pelajaran atau topik.
 - **Memberikan Tugas dan Penilaian**: Microsoft Teams memungkinkan pengajar untuk membuat, mendistribusikan, dan menilai tugas siswa. Pengajar dapat menetapkan tenggat waktu, menggunakan rubrik penilaian, dan memberikan umpan balik secara langsung melalui aplikasi.
-- **Komunikasi dan Interaksi**: Fitur chat, panggilan video, dan rapat memungkinkan komunikasi dan interaksi antara pengajar dan siswa, baik secara individu maupun kelompok. Pengajar dapat melakukan diskusi kelas, tanya jawab, dan memberikan bimbingan tambahan melalui rapat video.
+- **Komunikasi dan Interaksi**: Fitur chat, panggilan video, dan rapat memungkinkan komunikasi dan interaksi antara pengajar dan siswa, baik secara individu maupun kelompok. Pengajar dapat melakukan diskusi kelas, tanya jawab, dan memberikan bimbingan tambahan melalui rapat video.  
   <img width="350px" src="img/tutor2.png"> <br>
 
 - **Integrasi dengan OneNote Class Notebook**: Fitur ini memungkinkan pengajar untuk membuat catatan digital yang dapat diakses dan dibagikan dengan siswa. Pengajar dapat memberikan materi pelajaran, latihan, dan catatan untuk membantu proses belajar mengajar
