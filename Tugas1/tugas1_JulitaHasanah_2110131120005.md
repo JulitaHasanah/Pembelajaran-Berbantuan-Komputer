@@ -41,7 +41,7 @@ Sebagai tools, Microsoft Teams menyediakan berbagai alat yang mendukung proses p
 <br>
 
 3. **Microsoft Teams sebagai Tutee (Pelajar)** <br>
-   Sebagai tutee, Microsoft Teams memungkinkan siswa untuk:
+   Sebagai tutee, Microsoft Teams memungkinkan siswa untuk:  
    <img width="230px" src="img/tutee1.png"> <br>
 
 - Mengakses Materi Pembelajaran dan Tugas: Siswa dapat mengakses materi yang diunggah oleh pengajar, termasuk buku teks digital, presentasi, catatan, dan video. Mereka juga dapat melihat tugas yang diberikan, mengerjakan tugas, dan mengirimkannya kembali kepada pengajar.
@@ -52,7 +52,3 @@ Sebagai tools, Microsoft Teams menyediakan berbagai alat yang mendukung proses p
 
 - Mencari Bantuan dan Berkomunikasi dengan Pengajar: Siswa dapat menghubungi pengajar mereka untuk klarifikasi atau pertanyaan tambahan terkait materi pelajaran atau tugas melalui chat atau video call.<br>
   <img width="230px" src="img/tutee1.png"> <br>
-
-## **Kesimpulan**
-
-<p align="justify">Microsoft Teams adalah platform komprehensif yang mengintegrasikan berbagai fungsi pembelajaran dan manajemen kelas, yang membuatnya mampu memenuhi kebutuhan pengajar, siswa, dan alat bantu pembelajaran dalam satu aplikasi. Dengan berbagai fitur kolaborasi, pengelolaan kelas, dan integrasi dengan aplikasi Microsoft lainnya, Teams adalah pilihan yang sangat fleksibel untuk pembelajaran di sekolah, universitas, maupun di lingkungan korporat.</p>
